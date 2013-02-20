@@ -41,7 +41,17 @@ NameGenerator = function()
     
     //animals
     var animals = new Array(
-            "dog", "kitten", "whale", "yetti"
+            'aardvark', 'alligator', 'anteater', 'antelope', 'ape', 'armadillo', 'ass', 'baboon', 'badger', 'bat', 'bear', 'beaver', 
+            'bighorn', 'bison', 'boar', 'buffalo', 'bull', 'bunny', 'camel', 'canary', 'cat', 'chameleon', 'cheetah', 'chimpanzee', 
+            'chinchilla', 'chipmunk', 'colt', 'cougar', 'cow', 'coyote', 'crocodile', 'crow', 'deer', 'dingo', 'doe', 'dog', 'donkey', 
+            'dormouse', 'duckbill', 'elephant', 'elk', 'fawn', 'ferret', 'fish', 'fox', 'frog', 'gazelle', 'giraffe', 'goat', 'gopher', 
+            'gorilla', 'grizzly bear', 'ground hog', 'guinea pig', 'hamster', 'hare', 'hedgehog', 'hippopotamus', 'hog', 'horse', 'hyena', 
+            'iguana', 'jackal', 'jaguar', 'kangaroo', 'kitten', 'koala', 'lamb', 'lemur', 'leopard', 'lion', 'lizard', 'llama', 'lovebird', 
+            'mink', 'mole', 'mongoose', 'monkey', 'moose', 'mouse', 'mule', 'muskrat', 'newt', 'ocelot', 'opossum', 'orangutan', 'otter', 'ox', 
+            'panda', 'panther', 'parrot', 'pig', 'platypus', 'polar bear', 'pony', 'porcupine', 'prairie dog', 'puma', 'puppy', 'rabbit', 
+            'raccoon', 'ram', 'rat', 'reindeer', 'rhinoceros', 'roebuck', 'salamander', 'seal', 'sheep', 'shrew', 'silver fox', 'skunk', 
+            'sloth', 'snake', 'squirrel', 'stallion', 'tiger', 'toad', 'turtle', 'walrus', 'warthog', 'waterbuck', 'weasel', 'whale', 
+            'wildcat', 'wolf', 'wombat', 'yak', 'yetti', 'zebra'
     );
     
     getName();
